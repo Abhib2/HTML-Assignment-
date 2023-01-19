@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#main{
+    height: 700px;
+    width: 800px;
+    background: rgb(255, 252, 252);
+    margin: auto;
+}
+#first{
+    height: 300px;
+    width: 350px;
+    background-color: rgb(107, 104, 104);
+    margin: auto;
+}
+#img1{
+    height: 180px;
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+#aaa{
+text-align: center;
+}
+
+
+
+
+#bbb{
+    text-align: center;
+    font-size: 30px;
+    font: bold;
+
+}
+
+
+
+
+#second{
+    height: 200px;
+    width: 650px;
+    background-color: aliceblue;
+    margin-left: 70px;
+    margin-top: 20px;
+    display: flex;
+}
+#second1{
+    height: 200px;
+    width: 150px;
+    background-color: blue;
+}
+#second2{
+    height: 200px;
+    width: 500px;
+    /* background-color: blue; */
+}
+#img2{
+    height: 200px;
+    width: 150px;
+    
+}
+#ccc{
+    margin-left: 10px;
+}
+#aaaa{
+    font: bolder;
+    margin-left: 20px;
+}
+#third{
+    height: 150px;
+    width: 750px;
+    background-color: rgb(247, 243, 243);
+    margin: auto;
+    border: 2px solid red;
+    display:flex ;
+    margin-top: 10px;
+}
+#third2{
+    height: 130px;
+    width: 3px;
+    border: 2px solid black;
+    margin: auto;
+    /* float: left; */
+    
+}
+#third1{
+    width: 50%;
+    height: 100%;
+    /* border: 1px solid; */
+    /* float: left; */
+}
+#third3{
+    width: 50%;
+    height: 100%;
+    /* border: 1px solid; */
+    /* float:left ; */
+}
+#text1{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#thi1{
+    margin-left: 10px;
+}
+#text2{
+    padding-left: 150px;
+    margin-top: 10px;
+}
+#thi2{
+    padding-left: 100px;
+}
